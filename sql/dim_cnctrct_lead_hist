@@ -1,1 +1,2 @@
 select * from dim_cntrct_lead;
+select * from fact;
